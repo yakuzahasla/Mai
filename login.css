@@ -1,0 +1,54 @@
+html{
+background-color:(143,244,207,1);
+}
+.white{
+ color:(143,244,207,1);
+}
+.align{
+  text-align:center;
+  color:white;
+}
+input .lol{
+    border: 2px;
+    padding: 0;
+    margin: 0;
+    background-color: #cefaea;
+    font: 13px sans-serif
+}
+.loginbtnn{
+  ;
+}
+.break {
+    background: transparent;
+    border-width: 0;
+    clear: both;
+    display: block;
+    height: 1px;
+    margin: 0;
+    padding: 0;
+}
+.vedimas {
+    margin-top: 1em;
+    text-align: left;
+}
+.input {
+    float: right;
+    width: 50%;
+}
+.label {
+float: left;
+width: 80px;
+white-space: nowrap;
+}
+#username{
+
+}
+#loginbtn{
+
+}
+#password{
+
+}
+#rememberusername{
+
+}
